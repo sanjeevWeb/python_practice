@@ -22,4 +22,4 @@ cube = lambda x: x ** 3
 
 print(cube(3))
 
-args
+print("i got the biometrics today")
